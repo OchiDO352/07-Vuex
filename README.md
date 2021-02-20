@@ -1,4 +1,4 @@
-# shop
+# shop VUEX
 
 ## Project setup
 ```
