@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Hoodie #1 (freesize)",
+    "price": 599,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/6-Hoodie-Yellow_600x.jpg?v=1609947210"
+  },
+  {
+    "id": 2,
+    "title": "Hoodie #2 (freesize)",
+    "price": 599,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/5-Hoodie-Navy_600x.jpg?v=1609947057"
+  },
+  {
+    "id": 3,
+    "title": "OchiDO- Hoodie (freesize)",
+    "price": 599,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/OchiDO_Hoodie_Black_470x.jpg?v=1605003573"
+  },
+  {
+    "id": 4,
+    "title": "Not Today- Hoodie (freesize)",
+    "price": 599,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/Flashlight-Hoodie-White_470x.jpg?v=1586519647"
+  },
+  {
+    "id": 5,
+    "title": "Juked - T-Shirt (freesize)",
+    "price": 299,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/Juked-Shirt-Grey_600x.jpg?v=1586519566"
+  },
+  {
+    "id": 6,
+    "title": "T-Shirt #1 (freesize)",
+    "price": 299,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/3-Shirt-Black_470x.jpg?v=1609942581"
+  },
+  {
+    "id": 7,
+    "title": "Stay Safe - T-Shirt (freesize)",
+    "price": 299,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/Safe-Shirt-Navy_600x.jpg?v=1591009868"
+  },
+  {
+    "id": 8,
+    "title": "T-Shirt #2 (freesize)",
+    "price": 299,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/2-Shirt-Green_470x.jpg?v=1609941683"
+  },
+  {
+    "id": 9,
+    "title": "Face Mask #1",
+    "price": 150,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/Ochido2_Mask_470x.jpg?v=1594739018"
+  },
+  {
+    "id": 10,
+    "title": "Face Mask #2",
+    "price": 120,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/Ochido1_Mask_470x.jpg?v=1594736735"
+  },
+  {
+    "id": 11,
+    "title": "Mug #1",
+    "price": 230,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/MUG1_470x.jpg?v=1553104753"
+  },
+  {
+    "id": 12,
+    "title": "Mug #2",
+    "price": 250,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/4-Mug_470x.jpg?v=1609947500"
+  },
+  {
+    "id": 13,
+    "title": "Poster",
+    "price": 499,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/OchidDO_Storeimage_470x.png?v=1586362977"
+  },
+  {
+    "id": 14,
+    "title": "Logo - Sticker Pack",
+    "price": 100,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0090/2692/8718/products/A4STICKERS_470x.jpg?v=1606304138"
+  }
+  
+]
+
